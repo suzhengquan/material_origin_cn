@@ -57,6 +57,8 @@
 
 ![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/Lithium.png?raw=true)
 
+![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/Lithium_.png?raw=true)
+
     #### 光束在太阳附近移动时受太阳的质场影响(如图)
 
 ![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/sun.png?raw=true)
