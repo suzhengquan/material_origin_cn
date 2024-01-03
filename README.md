@@ -62,6 +62,8 @@
 
 ![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/MassAndMassField.png?raw=true)
 
+![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/frequency.png?raw=true)
+
     #### 五束光在太阳附近移动时受太阳的质场影响(如图)
     那五只眼睛看不到那五束光
 
